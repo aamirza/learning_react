@@ -1,0 +1,1 @@
+Me trying to learn React/Redux/GraphQL using the book [Full Stack React: The Complete Guide to ReactJS and Friends](https://www.newline.co/fullstack-react/) by Anthony Accomazzo, et al.
